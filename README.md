@@ -12,11 +12,14 @@
   - `car/` : Car 데이터 분석 (ver2 포함)
   - `fraud/` : Fraud 탐지/분석 (ver2 포함)
   - `datathon_app/` : 데이터톤(App market analysis) 결과물
+  - 🔹 `olist_ecommerce_analysis/` : Olist 이커머스 고객 가치 분석 프로젝트
 
 ## 대표 결과물 바로가기
 > 아래 링크는 “클릭하면 열리는” 목차 역할을 합니다.
 
 ### Projects
+- 🔹 **Olist E-commerce 프로젝트**: `03_projects/olist_ecommerce_analysis/`  
+  → 고객 LTV · 파레토 분석 · 고가치 고객 첫 구매 행동 및 지역 분포 분석
 - Fraud 프로젝트: `03_projects/fraud/`  
   → 이상 거래 패턴 탐색 및 EDA 중심 분석
 - Car 프로젝트: `03_projects/car/`  
@@ -32,7 +35,8 @@
 
 ## 사용 도구
 - Python, Jupyter Notebook
-- (필요하면) pandas, matplotlib/seaborn, scikit-learn 등
+- pandas, matplotlib/seaborn, scikit-learn 등
 
 ## 업데이트
+- 🔹 Olist 이커머스 고객 가치 분석 프로젝트 추가
 - 폴더 구조화 및 정리 완료 (최근 커밋 기준)
