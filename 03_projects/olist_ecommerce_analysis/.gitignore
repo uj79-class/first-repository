@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output / temp
+output/
+ppt/*.png
+
+# Python
+__pycache__/
