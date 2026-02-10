@@ -13,11 +13,18 @@
   - `fraud/` : Fraud 탐지/분석 (ver2 포함)
   - `datathon_app/` : 데이터톤(App market analysis) 결과물
   - 🔹 `olist_ecommerce_analysis/` : Olist 이커머스 고객 가치 분석 프로젝트
+  - 🔹 `starbucks_app_analysis/` : 스타벅스 앱 오퍼 반응 실패 (조회 후 이탈) 분석 프로젝트
 
 ## 대표 결과물 바로가기
 > 아래 링크는 “클릭하면 열리는” 목차 역할을 합니다.
 
 ### Projects
+- 🔹 **Olist E-commerce 프로젝트**: `03_projects/starbucks_app_analysis/`
+- JSON 이벤트 로그 기반 오퍼 실패(조회 후 미완료) 구조 분석
+- 고객 맥락 × 오퍼 조건 세그먼트 분석 및 통계 검정
+- 코호트 리텐션 분석을 통한 장기 영향 확인
+- 이탈 예측 모델 (Logistic Regression) 및 SHAP 해석
+- 데이터 기반 오퍼 설계 개선 전략 도출
 - 🔹 **Olist E-commerce 프로젝트**: `03_projects/olist_ecommerce_analysis/`  
   → 고객 LTV · 파레토 분석 · 고가치 고객 첫 구매 행동 및 지역 분포 분석
 - Fraud 프로젝트: `03_projects/fraud/`  
@@ -37,6 +44,7 @@
 - Python, Jupyter Notebook
 - pandas, matplotlib/seaborn, scikit-learn 등
 
-## 업데이트
-- 🔹 Olist 이커머스 고객 가치 분석 프로젝트 추가
+## 최신 업데이트
+- 🔹 스타벅스 앱 데이터 고객 맥락 기반 오퍼 설계 구조 분석 프로젝트 추가
 - 폴더 구조화 및 정리 완료 (최근 커밋 기준)
+
