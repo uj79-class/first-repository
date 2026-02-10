@@ -19,7 +19,7 @@
 > 아래 링크는 “클릭하면 열리는” 목차 역할을 합니다.
 
 ### Projects
-- 🔹 **Olist E-commerce 프로젝트**: `03_projects/starbucks_app_analysis/`
+- 🔹 **Starbucks_app_analysis 프로젝트**: `03_projects/starbucks_app_analysis/`
 - JSON 이벤트 로그 기반 오퍼 실패(조회 후 미완료) 구조 분석
 - 고객 맥락 × 오퍼 조건 세그먼트 분석 및 통계 검정
 - 코호트 리텐션 분석을 통한 장기 영향 확인
